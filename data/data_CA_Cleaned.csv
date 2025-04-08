@@ -1,0 +1,2118 @@
+year,age_group,gender,deaths
+2020,50 +,male,1
+2020,50 +,female,1
+2020,50 +,male,2
+2020,50 +,male,1
+2020,50 +,female,2
+2020,50 +,male,5
+2020,50 +,female,5
+2020,30 to 49,male,1
+2020,30 to 49,male,2
+2020,50 +,male,2
+2020,50 +,male,5
+2020,50 +,female,4
+2020,50 +,male,13
+2020,50 +,female,4
+2020,50 +,male,10
+2020,50 +,female,4
+2020,0 to 29,female,1
+2020,30 to 49,male,2
+2020,30 to 49,male,3
+2020,50 +,male,8
+2020,50 +,female,3
+2020,50 +,male,18
+2020,50 +,female,7
+2020,50 +,male,29
+2020,50 +,female,13
+2020,50 +,male,34
+2020,50 +,female,47
+2020,0 to 29,male,1
+2020,30 to 49,male,4
+2020,30 to 49,female,1
+2020,50 +,male,5
+2020,50 +,female,6
+2020,50 +,male,15
+2020,50 +,female,10
+2020,50 +,male,36
+2020,50 +,female,13
+2020,50 +,male,69
+2020,50 +,female,86
+2020,30 to 49,male,2
+2020,30 to 49,male,2
+2020,30 to 49,female,2
+2020,50 +,male,8
+2020,50 +,female,4
+2020,50 +,male,23
+2020,50 +,female,9
+2020,50 +,male,52
+2020,50 +,female,28
+2020,50 +,male,114
+2020,50 +,female,170
+2020,0 to 29,female,1
+2020,30 to 49,male,1
+2020,30 to 49,male,1
+2020,30 to 49,female,1
+2020,50 +,male,6
+2020,50 +,female,11
+2020,50 +,male,30
+2020,50 +,female,13
+2020,50 +,male,28
+2020,50 +,female,32
+2020,50 +,male,166
+2020,50 +,female,243
+2020,30 to 49,male,2
+2020,30 to 49,male,2
+2020,30 to 49,female,1
+2020,50 +,male,10
+2020,50 +,female,1
+2020,50 +,male,25
+2020,50 +,female,22
+2020,50 +,male,68
+2020,50 +,female,31
+2020,50 +,male,181
+2020,50 +,female,298
+2020,0 to 29,male,2
+2020,30 to 49,male,1
+2020,30 to 49,female,1
+2020,50 +,male,10
+2020,50 +,female,3
+2020,50 +,male,18
+2020,50 +,female,12
+2020,50 +,male,45
+2020,50 +,female,32
+2020,50 +,male,104
+2020,50 +,female,163
+2020,0 to 29,female,1
+2020,30 to 49,male,1
+2020,50 +,male,3
+2020,50 +,female,6
+2020,50 +,male,21
+2020,50 +,female,12
+2020,50 +,male,28
+2020,50 +,female,18
+2020,50 +,male,63
+2020,50 +,female,88
+2020,30 to 49,male,1
+2020,50 +,male,5
+2020,50 +,female,4
+2020,50 +,male,13
+2020,50 +,female,2
+2020,50 +,male,25
+2020,50 +,female,20
+2020,50 +,male,50
+2020,50 +,female,72
+2020,30 to 49,male,2
+2020,30 to 49,female,1
+2020,50 +,male,3
+2020,50 +,female,1
+2020,50 +,male,9
+2020,50 +,female,5
+2020,50 +,male,17
+2020,50 +,female,8
+2020,50 +,male,40
+2020,50 +,female,56
+2020,0 to 29,male,1
+2020,30 to 49,male,1
+2020,30 to 49,male,1
+2020,50 +,male,6
+2020,50 +,female,1
+2020,50 +,male,4
+2020,50 +,female,6
+2020,50 +,male,18
+2020,50 +,female,11
+2020,50 +,male,22
+2020,50 +,female,38
+2020,50 +,male,1
+2020,50 +,female,1
+2020,50 +,male,3
+2020,50 +,female,6
+2020,50 +,male,5
+2020,50 +,female,4
+2020,50 +,male,16
+2020,50 +,female,22
+2020,50 +,male,1
+2020,50 +,female,1
+2020,50 +,male,5
+2020,50 +,female,1
+2020,50 +,male,2
+2020,50 +,female,3
+2020,50 +,male,7
+2020,50 +,female,14
+2020,0 to 29,male,1
+2020,50 +,female,1
+2020,50 +,male,2
+2020,50 +,male,2
+2020,50 +,female,2
+2020,50 +,male,10
+2020,50 +,female,12
+2020,30 to 49,male,1
+2020,50 +,male,4
+2020,50 +,female,1
+2020,50 +,male,6
+2020,50 +,female,1
+2020,50 +,male,4
+2020,50 +,female,11
+2020,50 +,male,1
+2020,50 +,female,3
+2020,50 +,male,2
+2020,50 +,female,1
+2020,50 +,male,9
+2020,50 +,female,13
+2020,50 +,male,1
+2020,50 +,male,2
+2020,50 +,female,3
+2020,50 +,male,3
+2020,50 +,female,1
+2020,50 +,male,5
+2020,50 +,female,7
+2020,30 to 49,female,2
+2020,50 +,male,1
+2020,50 +,male,1
+2020,50 +,female,1
+2020,50 +,male,8
+2020,50 +,female,2
+2020,50 +,male,15
+2020,50 +,female,20
+2020,30 to 49,male,1
+2020,50 +,female,1
+2020,50 +,male,5
+2020,50 +,female,1
+2020,50 +,male,5
+2020,50 +,female,2
+2020,50 +,male,6
+2020,50 +,female,19
+2020,50 +,male,1
+2020,50 +,male,3
+2020,50 +,female,4
+2020,50 +,male,9
+2020,50 +,female,9
+2020,50 +,male,3
+2020,50 +,female,1
+2020,50 +,male,2
+2020,50 +,female,2
+2020,50 +,male,5
+2020,50 +,female,4
+2020,50 +,male,1
+2020,50 +,female,2
+2020,50 +,male,1
+2020,50 +,male,4
+2020,50 +,female,3
+2020,50 +,male,2
+2020,50 +,male,3
+2020,50 +,female,1
+2020,50 +,male,6
+2020,50 +,female,7
+2020,30 to 49,male,1
+2020,50 +,male,3
+2020,50 +,male,4
+2020,50 +,female,4
+2020,50 +,male,5
+2020,50 +,female,10
+2020,30 to 49,male,1
+2020,50 +,male,1
+2020,50 +,female,2
+2020,50 +,male,2
+2020,50 +,male,2
+2020,50 +,male,3
+2020,50 +,female,4
+2020,50 +,male,1
+2020,50 +,female,1
+2020,50 +,male,3
+2020,50 +,female,3
+2020,50 +,male,5
+2020,50 +,male,9
+2020,50 +,female,6
+2020,30 to 49,female,1
+2020,50 +,male,1
+2020,50 +,female,2
+2020,50 +,male,5
+2020,50 +,male,5
+2020,50 +,female,5
+2020,50 +,male,16
+2020,50 +,female,8
+2020,50 +,male,3
+2020,50 +,female,1
+2020,50 +,male,5
+2020,50 +,female,4
+2020,50 +,male,11
+2020,50 +,female,14
+2020,30 to 49,female,1
+2020,30 to 49,male,2
+2020,30 to 49,female,2
+2020,50 +,male,2
+2020,50 +,female,2
+2020,50 +,male,5
+2020,50 +,female,6
+2020,50 +,male,5
+2020,50 +,female,6
+2020,50 +,male,31
+2020,50 +,female,17
+2020,30 to 49,male,1
+2020,50 +,male,2
+2020,50 +,female,1
+2020,50 +,male,7
+2020,50 +,female,5
+2020,50 +,male,10
+2020,50 +,female,10
+2020,50 +,male,29
+2020,50 +,female,28
+2020,30 to 49,male,1
+2020,50 +,male,6
+2020,50 +,female,2
+2020,50 +,male,13
+2020,50 +,female,7
+2020,50 +,male,22
+2020,50 +,female,6
+2020,50 +,male,30
+2020,50 +,female,41
+2020,0 to 29,male,1
+2020,30 to 49,female,1
+2020,50 +,male,5
+2020,50 +,female,3
+2020,50 +,male,9
+2020,50 +,female,2
+2020,50 +,male,16
+2020,50 +,female,7
+2020,50 +,male,29
+2020,50 +,female,54
+2020,0 to 29,female,1
+2020,30 to 49,female,1
+2020,30 to 49,male,1
+2020,50 +,male,3
+2020,50 +,female,1
+2020,50 +,male,18
+2020,50 +,female,6
+2020,50 +,male,21
+2020,50 +,female,18
+2020,50 +,male,64
+2020,50 +,female,89
+2020,30 to 49,male,2
+2020,30 to 49,female,2
+2020,30 to 49,male,1
+2020,30 to 49,female,1
+2020,50 +,male,4
+2020,50 +,female,6
+2020,50 +,male,18
+2020,50 +,female,8
+2020,50 +,male,31
+2020,50 +,female,13
+2020,50 +,male,115
+2020,50 +,female,129
+2020,0 to 29,male,1
+2020,30 to 49,male,1
+2020,50 +,male,7
+2020,50 +,female,7
+2020,50 +,male,23
+2020,50 +,female,10
+2020,50 +,male,36
+2020,50 +,female,35
+2020,50 +,male,126
+2020,50 +,female,142
+2020,30 to 49,male,3
+2020,30 to 49,female,1
+2020,30 to 49,male,4
+2020,30 to 49,female,4
+2020,50 +,male,7
+2020,50 +,female,3
+2020,50 +,male,24
+2020,50 +,female,10
+2020,50 +,male,58
+2020,50 +,female,33
+2020,50 +,male,121
+2020,50 +,female,130
+2020,0 to 29,male,1
+2020,0 to 29,female,1
+2020,30 to 49,male,3
+2020,30 to 49,female,1
+2020,30 to 49,male,5
+2020,30 to 49,female,1
+2020,50 +,male,8
+2020,50 +,female,5
+2020,50 +,male,24
+2020,50 +,female,11
+2020,50 +,male,56
+2020,50 +,female,32
+2020,50 +,male,136
+2020,50 +,female,151
+2020,0 to 29,male,1
+2020,30 to 49,male,2
+2020,30 to 49,male,6
+2020,30 to 49,female,1
+2020,50 +,male,13
+2020,50 +,female,4
+2020,50 +,male,36
+2020,50 +,female,27
+2020,50 +,male,68
+2020,50 +,female,44
+2020,50 +,male,185
+2020,50 +,female,230
+2020,0 to 29,male,1
+2020,0 to 29,female,4
+2020,30 to 49,male,5
+2020,30 to 49,female,3
+2020,30 to 49,male,8
+2020,30 to 49,female,2
+2020,50 +,male,11
+2020,50 +,female,8
+2020,50 +,male,34
+2020,50 +,female,23
+2020,50 +,male,82
+2020,50 +,female,57
+2020,50 +,male,180
+2020,50 +,female,212
+2020,0 to 29,male,1
+2020,0 to 29,female,2
+2020,30 to 49,female,3
+2020,30 to 49,male,8
+2020,30 to 49,female,4
+2020,50 +,male,17
+2020,50 +,female,11
+2020,50 +,male,26
+2020,50 +,female,31
+2020,50 +,male,81
+2020,50 +,female,47
+2020,50 +,male,179
+2020,50 +,female,224
+2020,30 to 49,male,2
+2020,30 to 49,male,2
+2020,50 +,male,9
+2020,50 +,female,10
+2020,50 +,male,46
+2020,50 +,female,16
+2020,50 +,male,85
+2020,50 +,female,54
+2020,50 +,male,204
+2020,50 +,female,220
+2020,30 to 49,male,4
+2020,30 to 49,female,1
+2020,30 to 49,male,4
+2020,30 to 49,female,4
+2020,50 +,male,17
+2020,50 +,female,6
+2020,50 +,male,42
+2020,50 +,female,14
+2020,50 +,male,69
+2020,50 +,female,46
+2020,50 +,male,176
+2020,50 +,female,212
+2021,0 to 29,male,1
+2021,0 to 29,female,2
+2021,30 to 49,male,3
+2021,30 to 49,female,1
+2021,30 to 49,male,4
+2021,30 to 49,female,3
+2021,50 +,male,22
+2021,50 +,female,3
+2021,50 +,male,45
+2021,50 +,female,32
+2021,50 +,male,85
+2021,50 +,female,41
+2021,50 +,male,181
+2021,50 +,female,227
+2021,30 to 49,female,2
+2021,30 to 49,male,4
+2021,30 to 49,female,6
+2021,50 +,male,12
+2021,50 +,female,7
+2021,50 +,male,41
+2021,50 +,female,26
+2021,50 +,male,86
+2021,50 +,female,56
+2021,50 +,male,185
+2021,50 +,female,242
+2021,0 to 29,male,1
+2021,0 to 29,male,1
+2021,30 to 49,male,3
+2021,30 to 49,female,2
+2021,30 to 49,male,7
+2021,30 to 49,female,2
+2021,50 +,male,19
+2021,50 +,female,10
+2021,50 +,male,36
+2021,50 +,female,16
+2021,50 +,male,61
+2021,50 +,female,46
+2021,50 +,male,166
+2021,50 +,female,191
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,4
+2021,30 to 49,female,1
+2021,30 to 49,male,5
+2021,30 to 49,female,6
+2021,50 +,male,9
+2021,50 +,female,7
+2021,50 +,male,25
+2021,50 +,female,17
+2021,50 +,male,57
+2021,50 +,female,35
+2021,50 +,male,120
+2021,50 +,female,149
+2021,0 to 29,female,1
+2021,30 to 49,female,1
+2021,30 to 49,male,3
+2021,30 to 49,female,3
+2021,50 +,male,13
+2021,50 +,female,5
+2021,50 +,male,22
+2021,50 +,female,3
+2021,50 +,male,47
+2021,50 +,female,27
+2021,50 +,male,70
+2021,50 +,female,98
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,30 to 49,male,3
+2021,30 to 49,female,1
+2021,50 +,male,3
+2021,50 +,female,7
+2021,50 +,male,21
+2021,50 +,female,9
+2021,50 +,male,34
+2021,50 +,female,17
+2021,50 +,male,53
+2021,50 +,female,43
+2021,30 to 49,male,3
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,50 +,male,1
+2021,50 +,female,1
+2021,50 +,male,15
+2021,50 +,female,6
+2021,50 +,male,23
+2021,50 +,female,12
+2021,50 +,male,54
+2021,50 +,female,44
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,female,1
+2021,30 to 49,male,5
+2021,30 to 49,female,2
+2021,50 +,male,14
+2021,50 +,female,3
+2021,50 +,male,11
+2021,50 +,female,12
+2021,50 +,male,20
+2021,50 +,female,16
+2021,50 +,male,35
+2021,50 +,female,36
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,30 to 49,male,4
+2021,30 to 49,female,3
+2021,50 +,male,5
+2021,50 +,female,3
+2021,50 +,male,16
+2021,50 +,female,10
+2021,50 +,male,21
+2021,50 +,female,15
+2021,50 +,male,23
+2021,50 +,female,24
+2021,0 to 29,male,1
+2021,0 to 29,female,2
+2021,30 to 49,female,2
+2021,30 to 49,male,2
+2021,30 to 49,female,2
+2021,50 +,male,7
+2021,50 +,female,2
+2021,50 +,male,17
+2021,50 +,female,9
+2021,50 +,male,22
+2021,50 +,female,17
+2021,50 +,male,40
+2021,50 +,female,35
+2021,0 to 29,male,1
+2021,30 to 49,male,3
+2021,30 to 49,male,7
+2021,30 to 49,female,1
+2021,50 +,male,12
+2021,50 +,female,7
+2021,50 +,male,20
+2021,50 +,female,10
+2021,50 +,male,25
+2021,50 +,female,17
+2021,50 +,male,38
+2021,50 +,female,46
+2021,0 to 29,male,3
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,30 to 49,male,4
+2021,30 to 49,female,3
+2021,50 +,male,9
+2021,50 +,female,7
+2021,50 +,male,25
+2021,50 +,female,12
+2021,50 +,male,34
+2021,50 +,female,26
+2021,50 +,male,37
+2021,50 +,female,31
+2021,0 to 29,male,1
+2021,0 to 29,female,2
+2021,30 to 49,male,4
+2021,30 to 49,male,7
+2021,30 to 49,female,2
+2021,50 +,male,19
+2021,50 +,female,6
+2021,50 +,male,19
+2021,50 +,female,14
+2021,50 +,male,35
+2021,50 +,female,18
+2021,50 +,male,46
+2021,50 +,female,47
+2021,0 to 29,female,1
+2021,0 to 29,male,1
+2021,30 to 49,male,6
+2021,30 to 49,female,1
+2021,30 to 49,male,11
+2021,30 to 49,female,3
+2021,50 +,male,20
+2021,50 +,female,9
+2021,50 +,male,35
+2021,50 +,female,19
+2021,50 +,male,53
+2021,50 +,female,32
+2021,50 +,male,60
+2021,50 +,female,44
+2021,0 to 29,female,1
+2021,0 to 29,male,1
+2021,30 to 49,male,5
+2021,30 to 49,female,2
+2021,30 to 49,male,9
+2021,30 to 49,female,4
+2021,50 +,male,28
+2021,50 +,female,13
+2021,50 +,male,65
+2021,50 +,female,25
+2021,50 +,male,50
+2021,50 +,female,39
+2021,50 +,male,76
+2021,50 +,female,56
+2021,0 to 29,female,1
+2021,0 to 29,male,3
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,4
+2021,30 to 49,male,6
+2021,30 to 49,female,2
+2021,50 +,male,29
+2021,50 +,female,10
+2021,50 +,male,43
+2021,50 +,female,23
+2021,50 +,male,56
+2021,50 +,female,35
+2021,50 +,male,56
+2021,50 +,female,52
+2021,0 to 29,male,1
+2021,0 to 29,male,2
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,30 to 49,male,14
+2021,30 to 49,female,5
+2021,50 +,male,26
+2021,50 +,female,14
+2021,50 +,male,44
+2021,50 +,female,23
+2021,50 +,male,48
+2021,50 +,female,36
+2021,50 +,male,33
+2021,50 +,female,56
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,3
+2021,30 to 49,male,11
+2021,30 to 49,female,8
+2021,50 +,male,20
+2021,50 +,female,14
+2021,50 +,male,40
+2021,50 +,female,15
+2021,50 +,male,49
+2021,50 +,female,28
+2021,50 +,male,54
+2021,50 +,female,32
+2021,30 to 49,male,4
+2021,30 to 49,female,1
+2021,30 to 49,male,8
+2021,30 to 49,female,2
+2021,50 +,male,17
+2021,50 +,female,14
+2021,50 +,male,35
+2021,50 +,female,26
+2021,50 +,male,30
+2021,50 +,female,22
+2021,50 +,male,35
+2021,50 +,female,32
+2021,0 to 29,male,1
+2021,30 to 49,male,4
+2021,30 to 49,female,2
+2021,30 to 49,male,8
+2021,30 to 49,female,1
+2021,50 +,male,10
+2021,50 +,female,15
+2021,50 +,male,29
+2021,50 +,female,8
+2021,50 +,male,30
+2021,50 +,female,14
+2021,50 +,male,31
+2021,50 +,female,27
+2021,0 to 29,male,2
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,30 to 49,male,8
+2021,30 to 49,female,2
+2021,50 +,male,8
+2021,50 +,female,9
+2021,50 +,male,18
+2021,50 +,female,13
+2021,50 +,male,22
+2021,50 +,female,12
+2021,50 +,male,22
+2021,50 +,female,29
+2021,0 to 29,male,1
+2021,0 to 29,male,1
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,30 to 49,male,2
+2021,50 +,male,6
+2021,50 +,female,6
+2021,50 +,male,16
+2021,50 +,female,4
+2021,50 +,male,11
+2021,50 +,female,7
+2021,50 +,male,20
+2021,50 +,female,15
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,male,3
+2021,30 to 49,female,2
+2021,50 +,male,4
+2021,50 +,female,2
+2021,50 +,male,9
+2021,50 +,female,9
+2021,50 +,male,22
+2021,50 +,female,7
+2021,50 +,male,14
+2021,50 +,female,13
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,male,3
+2021,50 +,male,3
+2021,50 +,female,1
+2021,50 +,male,6
+2021,50 +,female,6
+2021,50 +,male,4
+2021,50 +,female,3
+2021,50 +,male,9
+2021,50 +,female,8
+2021,0 to 29,male,1
+2021,30 to 49,male,3
+2021,50 +,male,5
+2021,50 +,female,1
+2021,50 +,male,3
+2021,50 +,female,2
+2021,50 +,male,8
+2021,50 +,female,5
+2021,50 +,male,5
+2021,50 +,female,10
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,male,2
+2021,30 to 49,female,2
+2021,50 +,male,2
+2021,50 +,female,1
+2021,50 +,male,7
+2021,50 +,female,4
+2021,50 +,male,2
+2021,50 +,female,5
+2021,50 +,male,8
+2021,50 +,female,7
+2021,30 to 49,male,1
+2021,30 to 49,female,3
+2021,50 +,male,1
+2021,50 +,female,1
+2021,50 +,male,7
+2021,50 +,female,3
+2021,50 +,male,5
+2021,50 +,female,1
+2021,50 +,male,11
+2021,50 +,female,6
+2021,30 to 49,male,2
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,50 +,male,2
+2021,50 +,female,1
+2021,50 +,male,5
+2021,50 +,female,1
+2021,50 +,male,4
+2021,50 +,female,2
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,50 +,male,5
+2021,50 +,female,1
+2021,50 +,male,2
+2021,50 +,female,4
+2021,50 +,male,2
+2021,50 +,female,1
+2021,50 +,male,6
+2021,0 to 29,male,1
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,30 to 49,female,1
+2021,50 +,male,2
+2021,50 +,male,2
+2021,50 +,female,5
+2021,50 +,male,2
+2021,50 +,female,3
+2021,50 +,male,5
+2021,50 +,female,2
+2021,30 to 49,male,1
+2021,30 to 49,male,2
+2021,50 +,male,1
+2021,50 +,male,3
+2021,50 +,female,5
+2021,50 +,male,3
+2021,50 +,female,2
+2021,50 +,male,9
+2021,50 +,female,8
+2021,30 to 49,male,1
+2021,30 to 49,female,2
+2021,30 to 49,male,4
+2021,30 to 49,female,1
+2021,50 +,male,3
+2021,50 +,female,3
+2021,50 +,male,7
+2021,50 +,female,3
+2021,50 +,male,7
+2021,50 +,female,5
+2021,50 +,male,6
+2021,50 +,female,4
+2021,30 to 49,male,1
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,50 +,male,5
+2021,50 +,female,7
+2021,50 +,male,10
+2021,50 +,female,3
+2021,50 +,male,11
+2021,50 +,female,8
+2021,50 +,male,17
+2021,50 +,female,10
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,3
+2021,30 to 49,male,3
+2021,30 to 49,female,4
+2021,50 +,male,11
+2021,50 +,female,3
+2021,50 +,male,18
+2021,50 +,female,7
+2021,50 +,male,18
+2021,50 +,female,19
+2021,50 +,male,25
+2021,50 +,female,22
+2021,0 to 29,male,1
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,3
+2021,30 to 49,male,8
+2021,30 to 49,female,4
+2021,50 +,male,5
+2021,50 +,female,8
+2021,50 +,male,12
+2021,50 +,female,18
+2021,50 +,male,27
+2021,50 +,female,19
+2021,50 +,male,37
+2021,50 +,female,23
+2021,0 to 29,male,1
+2021,30 to 49,male,6
+2021,30 to 49,female,4
+2021,30 to 49,male,3
+2021,30 to 49,female,2
+2021,50 +,male,12
+2021,50 +,female,7
+2021,50 +,male,21
+2021,50 +,female,13
+2021,50 +,male,32
+2021,50 +,female,17
+2021,50 +,male,53
+2021,50 +,female,39
+2021,0 to 29,female,1
+2021,0 to 29,female,1
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,4
+2021,30 to 49,male,3
+2021,30 to 49,female,3
+2021,50 +,male,17
+2021,50 +,female,14
+2021,50 +,male,27
+2021,50 +,female,20
+2021,50 +,male,51
+2021,50 +,female,17
+2021,50 +,male,58
+2021,50 +,female,47
+2021,0 to 29,male,2
+2021,0 to 29,female,1
+2021,30 to 49,female,3
+2021,30 to 49,male,16
+2021,30 to 49,female,3
+2021,50 +,male,17
+2021,50 +,female,8
+2021,50 +,male,26
+2021,50 +,female,22
+2021,50 +,male,46
+2021,50 +,female,24
+2021,50 +,male,48
+2021,50 +,female,45
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,3
+2021,30 to 49,male,4
+2021,30 to 49,female,4
+2021,50 +,male,8
+2021,50 +,female,9
+2021,50 +,male,33
+2021,50 +,female,8
+2021,50 +,male,38
+2021,50 +,female,23
+2021,50 +,male,69
+2021,50 +,female,42
+2021,30 to 49,male,6
+2021,30 to 49,female,1
+2021,30 to 49,male,5
+2021,30 to 49,female,1
+2021,50 +,male,14
+2021,50 +,female,14
+2021,50 +,male,28
+2021,50 +,female,22
+2021,50 +,male,40
+2021,50 +,female,24
+2021,50 +,male,63
+2021,50 +,female,46
+2021,0 to 29,male,1
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,3
+2021,30 to 49,male,3
+2021,30 to 49,female,1
+2021,50 +,male,11
+2021,50 +,female,4
+2021,50 +,male,28
+2021,50 +,female,13
+2021,50 +,male,38
+2021,50 +,female,22
+2021,50 +,male,37
+2021,50 +,female,42
+2021,30 to 49,male,3
+2021,30 to 49,female,2
+2021,30 to 49,male,5
+2021,30 to 49,female,6
+2021,50 +,male,11
+2021,50 +,female,1
+2021,50 +,male,20
+2021,50 +,female,9
+2021,50 +,male,36
+2021,50 +,female,22
+2021,50 +,male,43
+2021,50 +,female,30
+2021,0 to 29,female,1
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,male,1
+2021,30 to 49,female,2
+2021,50 +,male,9
+2021,50 +,female,8
+2021,50 +,male,15
+2021,50 +,female,12
+2021,50 +,male,24
+2021,50 +,female,11
+2021,50 +,male,32
+2021,50 +,female,29
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,30 to 49,male,4
+2021,30 to 49,female,1
+2021,50 +,male,7
+2021,50 +,female,4
+2021,50 +,male,11
+2021,50 +,female,8
+2021,50 +,male,20
+2021,50 +,female,15
+2021,50 +,male,29
+2021,50 +,female,12
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,2
+2021,30 to 49,male,4
+2021,30 to 49,female,5
+2021,50 +,male,6
+2021,50 +,female,10
+2021,50 +,male,17
+2021,50 +,female,10
+2021,50 +,male,28
+2021,50 +,female,15
+2021,50 +,male,26
+2021,50 +,female,18
+2021,30 to 49,female,1
+2021,30 to 49,male,5
+2021,30 to 49,female,1
+2021,50 +,male,10
+2021,50 +,female,4
+2021,50 +,male,16
+2021,50 +,female,7
+2021,50 +,male,20
+2021,50 +,female,11
+2021,50 +,male,22
+2021,50 +,female,25
+2021,0 to 29,male,1
+2021,30 to 49,male,4
+2021,30 to 49,female,1
+2021,30 to 49,male,5
+2021,30 to 49,female,3
+2021,50 +,male,3
+2021,50 +,female,3
+2021,50 +,male,18
+2021,50 +,female,5
+2021,50 +,male,20
+2021,50 +,female,12
+2021,50 +,male,25
+2021,50 +,female,15
+2021,0 to 29,male,1
+2021,0 to 29,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,30 to 49,male,2
+2021,30 to 49,female,1
+2021,50 +,male,13
+2021,50 +,female,8
+2021,50 +,male,13
+2021,50 +,female,7
+2021,50 +,male,23
+2021,50 +,female,11
+2021,50 +,male,13
+2021,50 +,female,17
+2021,30 to 49,male,2
+2021,30 to 49,female,2
+2021,30 to 49,male,1
+2021,30 to 49,female,1
+2021,50 +,male,10
+2021,50 +,female,4
+2021,50 +,male,15
+2021,50 +,female,7
+2021,50 +,male,19
+2021,50 +,female,11
+2021,50 +,male,25
+2021,50 +,female,13
+2021,0 to 29,female,2
+2021,30 to 49,male,2
+2021,30 to 49,male,6
+2021,50 +,male,10
+2021,50 +,female,3
+2021,50 +,male,11
+2021,50 +,female,5
+2021,50 +,male,15
+2021,50 +,female,7
+2021,50 +,male,17
+2021,50 +,female,15
+2021,30 to 49,female,1
+2021,30 to 49,male,1
+2021,30 to 49,female,3
+2021,50 +,male,7
+2021,50 +,female,4
+2021,50 +,male,12
+2021,50 +,female,7
+2021,50 +,male,20
+2021,50 +,female,12
+2021,50 +,male,9
+2021,50 +,female,10
+2021,0 to 29,female,1
+2021,0 to 29,male,2
+2021,30 to 49,male,1
+2021,30 to 49,female,3
+2021,30 to 49,male,1
+2021,30 to 49,female,6
+2021,50 +,male,11
+2021,50 +,female,8
+2021,50 +,male,17
+2021,50 +,female,6
+2021,50 +,male,26
+2021,50 +,female,15
+2021,50 +,male,39
+2021,50 +,female,35
+2022,0 to 29,male,2
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,30 to 49,male,10
+2022,30 to 49,female,2
+2022,50 +,male,15
+2022,50 +,female,8
+2022,50 +,male,41
+2022,50 +,female,20
+2022,50 +,male,66
+2022,50 +,female,46
+2022,50 +,male,123
+2022,50 +,female,121
+2022,0 to 29,female,2
+2022,0 to 29,female,1
+2022,0 to 29,female,3
+2022,30 to 49,male,4
+2022,30 to 49,female,2
+2022,30 to 49,male,9
+2022,30 to 49,female,8
+2022,50 +,male,21
+2022,50 +,female,18
+2022,50 +,male,55
+2022,50 +,female,34
+2022,50 +,male,116
+2022,50 +,female,59
+2022,50 +,male,242
+2022,50 +,female,202
+2022,0 to 29,male,1
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,30 to 49,male,3
+2022,30 to 49,female,6
+2022,50 +,male,26
+2022,50 +,female,20
+2022,50 +,male,75
+2022,50 +,female,44
+2022,50 +,male,135
+2022,50 +,female,68
+2022,50 +,male,277
+2022,50 +,female,260
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,0 to 29,female,1
+2022,30 to 49,male,4
+2022,30 to 49,female,2
+2022,30 to 49,male,5
+2022,30 to 49,female,7
+2022,50 +,male,28
+2022,50 +,female,19
+2022,50 +,male,52
+2022,50 +,female,39
+2022,50 +,male,107
+2022,50 +,female,68
+2022,50 +,male,215
+2022,50 +,female,215
+2022,0 to 29,female,1
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,female,2
+2022,30 to 49,male,6
+2022,30 to 49,female,7
+2022,50 +,male,16
+2022,50 +,female,7
+2022,50 +,male,49
+2022,50 +,female,23
+2022,50 +,male,71
+2022,50 +,female,56
+2022,50 +,male,160
+2022,50 +,female,169
+2022,0 to 29,male,2
+2022,0 to 29,female,1
+2022,0 to 29,male,3
+2022,0 to 29,female,2
+2022,30 to 49,male,3
+2022,30 to 49,female,1
+2022,30 to 49,male,5
+2022,30 to 49,female,2
+2022,50 +,male,14
+2022,50 +,female,4
+2022,50 +,male,35
+2022,50 +,female,23
+2022,50 +,male,74
+2022,50 +,female,28
+2022,50 +,male,139
+2022,50 +,female,117
+2022,0 to 29,female,1
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,30 to 49,female,2
+2022,30 to 49,male,3
+2022,50 +,male,12
+2022,50 +,female,6
+2022,50 +,male,25
+2022,50 +,female,14
+2022,50 +,male,42
+2022,50 +,female,24
+2022,50 +,male,96
+2022,50 +,female,101
+2022,0 to 29,female,1
+2022,0 to 29,male,2
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,30 to 49,male,8
+2022,30 to 49,female,6
+2022,50 +,male,7
+2022,50 +,female,11
+2022,50 +,male,12
+2022,50 +,female,10
+2022,50 +,male,36
+2022,50 +,female,19
+2022,50 +,male,67
+2022,50 +,female,60
+2022,0 to 29,male,1
+2022,30 to 49,male,1
+2022,30 to 49,male,1
+2022,30 to 49,female,3
+2022,50 +,male,9
+2022,50 +,female,5
+2022,50 +,male,24
+2022,50 +,female,8
+2022,50 +,male,33
+2022,50 +,female,16
+2022,50 +,male,48
+2022,50 +,female,46
+2022,0 to 29,male,1
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,male,4
+2022,50 +,male,5
+2022,50 +,female,8
+2022,50 +,male,19
+2022,50 +,female,16
+2022,50 +,male,28
+2022,50 +,female,10
+2022,50 +,male,47
+2022,50 +,female,45
+2022,0 to 29,male,1
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,4
+2022,50 +,male,7
+2022,50 +,female,4
+2022,50 +,male,18
+2022,50 +,female,7
+2022,50 +,male,25
+2022,50 +,female,20
+2022,50 +,male,55
+2022,50 +,female,42
+2022,30 to 49,male,1
+2022,30 to 49,male,3
+2022,30 to 49,female,1
+2022,50 +,male,5
+2022,50 +,female,2
+2022,50 +,male,4
+2022,50 +,female,10
+2022,50 +,male,23
+2022,50 +,female,21
+2022,50 +,male,43
+2022,50 +,female,57
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,0 to 29,male,2
+2022,30 to 49,female,2
+2022,30 to 49,male,3
+2022,30 to 49,female,4
+2022,50 +,male,7
+2022,50 +,female,3
+2022,50 +,male,11
+2022,50 +,female,13
+2022,50 +,male,28
+2022,50 +,female,15
+2022,50 +,male,56
+2022,50 +,female,62
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,2
+2022,50 +,male,7
+2022,50 +,female,8
+2022,50 +,male,12
+2022,50 +,female,9
+2022,50 +,male,43
+2022,50 +,female,27
+2022,50 +,male,88
+2022,50 +,female,75
+2022,0 to 29,male,1
+2022,30 to 49,male,8
+2022,30 to 49,female,3
+2022,30 to 49,male,2
+2022,50 +,male,7
+2022,50 +,female,11
+2022,50 +,male,20
+2022,50 +,female,19
+2022,50 +,male,59
+2022,50 +,female,32
+2022,50 +,male,103
+2022,50 +,female,113
+2022,0 to 29,male,1
+2022,30 to 49,male,3
+2022,30 to 49,female,1
+2022,30 to 49,male,5
+2022,30 to 49,female,3
+2022,50 +,male,10
+2022,50 +,female,8
+2022,50 +,male,22
+2022,50 +,female,15
+2022,50 +,male,47
+2022,50 +,female,31
+2022,50 +,male,139
+2022,50 +,female,118
+2022,0 to 29,female,1
+2022,0 to 29,male,3
+2022,0 to 29,female,2
+2022,30 to 49,female,2
+2022,30 to 49,male,3
+2022,50 +,male,6
+2022,50 +,female,5
+2022,50 +,male,22
+2022,50 +,female,13
+2022,50 +,male,45
+2022,50 +,female,31
+2022,50 +,male,115
+2022,50 +,female,128
+2022,0 to 29,male,1
+2022,0 to 29,male,1
+2022,30 to 49,male,3
+2022,30 to 49,female,1
+2022,30 to 49,male,4
+2022,30 to 49,female,3
+2022,50 +,male,10
+2022,50 +,female,3
+2022,50 +,male,23
+2022,50 +,female,17
+2022,50 +,male,45
+2022,50 +,female,37
+2022,50 +,male,122
+2022,50 +,female,120
+2022,0 to 29,female,3
+2022,0 to 29,male,1
+2022,30 to 49,male,3
+2022,30 to 49,female,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,50 +,male,5
+2022,50 +,female,1
+2022,50 +,male,24
+2022,50 +,female,9
+2022,50 +,male,46
+2022,50 +,female,18
+2022,50 +,male,93
+2022,50 +,female,110
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,male,2
+2022,50 +,male,2
+2022,50 +,female,3
+2022,50 +,male,10
+2022,50 +,female,10
+2022,50 +,male,37
+2022,50 +,female,16
+2022,50 +,male,62
+2022,50 +,female,69
+2022,50 +,male,7
+2022,50 +,male,6
+2022,50 +,female,9
+2022,50 +,male,21
+2022,50 +,female,19
+2022,50 +,male,75
+2022,50 +,female,76
+2022,0 to 29,male,2
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,50 +,male,5
+2022,50 +,female,2
+2022,50 +,male,9
+2022,50 +,female,6
+2022,50 +,male,23
+2022,50 +,female,15
+2022,50 +,male,43
+2022,50 +,female,38
+2022,0 to 29,female,1
+2022,30 to 49,male,1
+2022,50 +,male,7
+2022,50 +,female,3
+2022,50 +,male,9
+2022,50 +,female,5
+2022,50 +,male,16
+2022,50 +,female,16
+2022,50 +,male,33
+2022,50 +,female,33
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,50 +,male,2
+2022,50 +,female,2
+2022,50 +,male,5
+2022,50 +,female,3
+2022,50 +,male,15
+2022,50 +,female,8
+2022,50 +,male,28
+2022,50 +,female,21
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,50 +,male,2
+2022,50 +,female,4
+2022,50 +,male,6
+2022,50 +,female,3
+2022,50 +,male,13
+2022,50 +,female,7
+2022,50 +,male,42
+2022,50 +,female,16
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,50 +,male,1
+2022,50 +,female,2
+2022,50 +,male,4
+2022,50 +,female,4
+2022,50 +,male,13
+2022,50 +,female,11
+2022,50 +,male,28
+2022,50 +,female,24
+2022,0 to 29,male,2
+2022,30 to 49,male,2
+2022,50 +,male,3
+2022,50 +,female,3
+2022,50 +,male,6
+2022,50 +,female,3
+2022,50 +,male,18
+2022,50 +,female,9
+2022,50 +,male,35
+2022,50 +,female,31
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,50 +,male,3
+2022,50 +,female,1
+2022,50 +,male,9
+2022,50 +,female,8
+2022,50 +,male,21
+2022,50 +,female,15
+2022,50 +,male,46
+2022,50 +,female,49
+2022,0 to 29,female,2
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,50 +,male,6
+2022,50 +,female,3
+2022,50 +,male,10
+2022,50 +,female,6
+2022,50 +,male,26
+2022,50 +,female,12
+2022,50 +,male,60
+2022,50 +,female,64
+2022,0 to 29,male,1
+2022,0 to 29,male,1
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,3
+2022,50 +,male,7
+2022,50 +,female,5
+2022,50 +,male,12
+2022,50 +,female,7
+2022,50 +,male,29
+2022,50 +,female,20
+2022,50 +,male,79
+2022,50 +,female,71
+2022,0 to 29,male,1
+2022,30 to 49,male,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,50 +,male,5
+2022,50 +,female,4
+2022,50 +,male,13
+2022,50 +,female,9
+2022,50 +,male,36
+2022,50 +,female,25
+2022,50 +,male,90
+2022,50 +,female,55
+2022,30 to 49,male,1
+2022,50 +,male,2
+2022,50 +,female,3
+2022,50 +,male,14
+2022,50 +,female,8
+2022,50 +,male,24
+2022,50 +,female,13
+2022,50 +,male,65
+2022,50 +,female,66
+2022,30 to 49,female,1
+2022,30 to 49,male,3
+2022,50 +,male,2
+2022,50 +,female,1
+2022,50 +,male,11
+2022,50 +,female,9
+2022,50 +,male,30
+2022,50 +,female,19
+2022,50 +,male,97
+2022,50 +,female,75
+2022,0 to 29,female,1
+2022,0 to 29,female,1
+2022,30 to 49,male,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,50 +,male,6
+2022,50 +,female,4
+2022,50 +,male,14
+2022,50 +,female,8
+2022,50 +,male,26
+2022,50 +,female,22
+2022,50 +,male,72
+2022,50 +,female,83
+2022,30 to 49,female,1
+2022,50 +,male,3
+2022,50 +,female,4
+2022,50 +,male,14
+2022,50 +,female,10
+2022,50 +,male,28
+2022,50 +,female,20
+2022,50 +,male,70
+2022,50 +,female,64
+2022,0 to 29,male,2
+2022,30 to 49,male,1
+2022,50 +,male,2
+2022,50 +,female,3
+2022,50 +,male,10
+2022,50 +,female,8
+2022,50 +,male,19
+2022,50 +,female,14
+2022,50 +,male,52
+2022,50 +,female,70
+2022,30 to 49,male,1
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,50 +,male,3
+2022,50 +,female,2
+2022,50 +,male,5
+2022,50 +,female,7
+2022,50 +,male,26
+2022,50 +,female,11
+2022,50 +,male,64
+2022,50 +,female,61
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,male,1
+2022,50 +,male,2
+2022,50 +,male,9
+2022,50 +,female,8
+2022,50 +,male,21
+2022,50 +,female,17
+2022,50 +,male,61
+2022,50 +,female,58
+2022,30 to 49,male,1
+2022,50 +,male,3
+2022,50 +,female,3
+2022,50 +,male,18
+2022,50 +,female,7
+2022,50 +,male,43
+2022,50 +,female,15
+2022,50 +,male,78
+2022,50 +,female,61
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,50 +,male,6
+2022,50 +,female,5
+2022,50 +,male,11
+2022,50 +,female,12
+2022,50 +,male,33
+2022,50 +,female,23
+2022,50 +,male,64
+2022,50 +,female,76
+2022,0 to 29,male,1
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,6
+2022,50 +,male,8
+2022,50 +,female,3
+2022,50 +,male,17
+2022,50 +,female,16
+2022,50 +,male,38
+2022,50 +,female,29
+2022,50 +,male,109
+2022,50 +,female,85
+2022,0 to 29,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,30 to 49,male,2
+2022,30 to 49,female,3
+2022,50 +,male,8
+2022,50 +,female,5
+2022,50 +,male,21
+2022,50 +,female,6
+2022,50 +,male,37
+2022,50 +,female,22
+2022,50 +,male,93
+2022,50 +,female,110
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,male,1
+2022,30 to 49,female,1
+2022,50 +,male,6
+2022,50 +,female,4
+2022,50 +,male,16
+2022,50 +,female,6
+2022,50 +,male,44
+2022,50 +,female,26
+2022,50 +,male,107
+2022,50 +,female,100
+2022,0 to 29,male,1
+2022,30 to 49,male,1
+2022,30 to 49,female,2
+2022,50 +,male,6
+2022,50 +,female,2
+2022,50 +,male,8
+2022,50 +,female,12
+2022,50 +,male,35
+2022,50 +,female,26
+2022,50 +,male,86
+2022,50 +,female,112
+2022,0 to 29,female,1
+2022,0 to 29,female,1
+2022,30 to 49,female,1
+2022,50 +,male,3
+2022,50 +,female,2
+2022,50 +,male,15
+2022,50 +,female,8
+2022,50 +,male,29
+2022,50 +,female,18
+2022,50 +,male,69
+2022,50 +,female,78
+2022,0 to 29,male,1
+2022,30 to 49,female,2
+2022,30 to 49,male,1
+2022,50 +,male,5
+2022,50 +,female,4
+2022,50 +,male,15
+2022,50 +,female,7
+2022,50 +,male,42
+2022,50 +,female,19
+2022,50 +,male,82
+2022,50 +,female,90
+2022,30 to 49,male,1
+2022,30 to 49,female,2
+2022,50 +,male,3
+2022,50 +,female,2
+2022,50 +,male,15
+2022,50 +,female,8
+2022,50 +,male,30
+2022,50 +,female,24
+2022,50 +,male,66
+2022,50 +,female,67
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,male,1
+2022,30 to 49,female,2
+2022,50 +,male,7
+2022,50 +,female,3
+2022,50 +,male,15
+2022,50 +,female,10
+2022,50 +,male,22
+2022,50 +,female,21
+2022,50 +,male,52
+2022,50 +,female,66
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,2
+2022,50 +,male,5
+2022,50 +,female,1
+2022,50 +,male,10
+2022,50 +,female,12
+2022,50 +,male,28
+2022,50 +,female,17
+2022,50 +,male,62
+2022,50 +,female,55
+2022,30 to 49,male,3
+2022,30 to 49,female,1
+2022,50 +,male,1
+2022,50 +,female,8
+2022,50 +,male,13
+2022,50 +,female,10
+2022,50 +,male,37
+2022,50 +,female,23
+2022,50 +,male,75
+2022,50 +,female,64
+2022,0 to 29,male,1
+2022,30 to 49,male,2
+2022,30 to 49,male,3
+2022,50 +,male,1
+2022,50 +,female,5
+2022,50 +,male,9
+2022,50 +,female,7
+2022,50 +,male,17
+2022,50 +,female,17
+2022,50 +,male,62
+2022,50 +,female,60
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,30 to 49,male,2
+2022,50 +,male,3
+2022,50 +,female,3
+2022,50 +,male,10
+2022,50 +,female,6
+2022,50 +,male,23
+2022,50 +,female,18
+2022,50 +,male,54
+2022,50 +,female,58
+2022,0 to 29,female,1
+2022,0 to 29,male,1
+2022,0 to 29,female,1
+2022,30 to 49,male,2
+2022,30 to 49,female,1
+2022,30 to 49,male,1
+2022,30 to 49,female,4
+2022,50 +,male,4
+2022,50 +,female,4
+2022,50 +,male,11
+2022,50 +,female,10
+2022,50 +,male,24
+2022,50 +,female,9
+2022,50 +,male,76
+2022,50 +,female,63
+2023,30 to 49,male,1
+2023,30 to 49,male,2
+2023,30 to 49,female,2
+2023,50 +,male,4
+2023,50 +,female,3
+2023,50 +,male,9
+2023,50 +,female,10
+2023,50 +,male,18
+2023,50 +,female,24
+2023,50 +,male,81
+2023,50 +,female,73
+2023,0 to 29,female,1
+2023,0 to 29,male,1
+2023,0 to 29,female,1
+2023,30 to 49,male,1
+2023,50 +,male,2
+2023,50 +,female,2
+2023,50 +,male,13
+2023,50 +,female,9
+2023,50 +,male,31
+2023,50 +,female,20
+2023,50 +,male,59
+2023,50 +,female,58
+2023,30 to 49,male,2
+2023,30 to 49,female,2
+2023,50 +,female,1
+2023,50 +,male,6
+2023,50 +,female,6
+2023,50 +,male,11
+2023,50 +,female,14
+2023,50 +,male,41
+2023,50 +,female,53
+2023,0 to 29,male,1
+2023,30 to 49,female,1
+2023,30 to 49,male,2
+2023,30 to 49,female,1
+2023,50 +,male,2
+2023,50 +,female,1
+2023,50 +,male,10
+2023,50 +,female,4
+2023,50 +,male,16
+2023,50 +,female,11
+2023,50 +,male,34
+2023,50 +,female,36
+2023,0 to 29,female,1
+2023,30 to 49,female,1
+2023,30 to 49,male,3
+2023,50 +,male,2
+2023,50 +,female,2
+2023,50 +,male,6
+2023,50 +,female,6
+2023,50 +,male,14
+2023,50 +,female,9
+2023,50 +,male,30
+2023,50 +,female,41
+2023,30 to 49,female,1
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,6
+2023,50 +,female,4
+2023,50 +,male,21
+2023,50 +,female,11
+2023,50 +,male,40
+2023,50 +,female,32
+2023,30 to 49,male,1
+2023,30 to 49,female,2
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,10
+2023,50 +,female,3
+2023,50 +,male,17
+2023,50 +,female,10
+2023,50 +,male,40
+2023,50 +,female,34
+2023,0 to 29,male,1
+2023,50 +,male,4
+2023,50 +,female,3
+2023,50 +,male,11
+2023,50 +,female,4
+2023,50 +,male,12
+2023,50 +,female,12
+2023,50 +,male,47
+2023,50 +,female,29
+2023,30 to 49,male,3
+2023,30 to 49,male,1
+2023,50 +,male,4
+2023,50 +,female,1
+2023,50 +,male,6
+2023,50 +,female,3
+2023,50 +,male,15
+2023,50 +,female,13
+2023,50 +,male,38
+2023,50 +,female,37
+2023,0 to 29,male,1
+2023,50 +,male,1
+2023,50 +,female,2
+2023,50 +,male,7
+2023,50 +,female,5
+2023,50 +,male,15
+2023,50 +,female,12
+2023,50 +,male,26
+2023,50 +,female,29
+2023,50 +,male,1
+2023,50 +,female,2
+2023,50 +,male,3
+2023,50 +,female,4
+2023,50 +,male,10
+2023,50 +,female,13
+2023,50 +,male,36
+2023,50 +,female,34
+2023,0 to 29,male,1
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,50 +,male,3
+2023,50 +,female,1
+2023,50 +,male,7
+2023,50 +,female,3
+2023,50 +,male,13
+2023,50 +,female,10
+2023,50 +,male,32
+2023,50 +,female,25
+2023,0 to 29,female,1
+2023,30 to 49,female,1
+2023,50 +,male,1
+2023,50 +,male,3
+2023,50 +,female,1
+2023,50 +,male,12
+2023,50 +,female,9
+2023,50 +,male,31
+2023,50 +,female,18
+2023,30 to 49,male,1
+2023,50 +,female,1
+2023,50 +,male,9
+2023,50 +,female,8
+2023,50 +,male,13
+2023,50 +,female,7
+2023,50 +,male,37
+2023,50 +,female,33
+2023,0 to 29,female,1
+2023,30 to 49,female,2
+2023,30 to 49,female,1
+2023,50 +,male,1
+2023,50 +,male,1
+2023,50 +,female,4
+2023,50 +,male,11
+2023,50 +,female,2
+2023,50 +,male,28
+2023,50 +,female,20
+2023,30 to 49,female,1
+2023,30 to 49,female,1
+2023,50 +,male,4
+2023,50 +,male,11
+2023,50 +,female,3
+2023,50 +,male,13
+2023,50 +,female,17
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,50 +,male,3
+2023,50 +,female,5
+2023,50 +,male,6
+2023,50 +,female,5
+2023,50 +,male,13
+2023,50 +,female,12
+2023,50 +,female,1
+2023,50 +,male,3
+2023,50 +,female,2
+2023,50 +,male,7
+2023,50 +,female,5
+2023,50 +,male,18
+2023,50 +,female,20
+2023,50 +,female,1
+2023,50 +,male,2
+2023,50 +,female,1
+2023,50 +,male,6
+2023,50 +,female,5
+2023,50 +,male,14
+2023,50 +,female,15
+2023,30 to 49,female,1
+2023,50 +,male,2
+2023,50 +,female,1
+2023,50 +,male,3
+2023,50 +,female,1
+2023,50 +,male,23
+2023,50 +,female,13
+2023,50 +,male,2
+2023,50 +,female,3
+2023,50 +,male,2
+2023,50 +,female,4
+2023,50 +,male,11
+2023,50 +,female,11
+2023,30 to 49,male,1
+2023,50 +,female,1
+2023,50 +,male,4
+2023,50 +,female,2
+2023,50 +,male,3
+2023,50 +,male,9
+2023,50 +,female,8
+2023,0 to 29,male,1
+2023,50 +,female,1
+2023,50 +,male,4
+2023,50 +,male,7
+2023,50 +,female,6
+2023,50 +,male,10
+2023,50 +,female,7
+2023,0 to 29,male,1
+2023,50 +,female,1
+2023,50 +,male,2
+2023,50 +,male,5
+2023,50 +,female,1
+2023,50 +,male,5
+2023,50 +,female,8
+2023,50 +,male,1
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,5
+2023,50 +,female,1
+2023,50 +,male,9
+2023,50 +,female,4
+2023,50 +,male,4
+2023,50 +,male,12
+2023,50 +,female,2
+2023,0 to 29,male,2
+2023,50 +,female,1
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,2
+2023,50 +,male,4
+2023,50 +,female,5
+2023,50 +,male,2
+2023,50 +,male,1
+2023,50 +,male,6
+2023,50 +,female,2
+2023,50 +,male,4
+2023,50 +,female,8
+2023,50 +,female,3
+2023,50 +,male,2
+2023,50 +,female,3
+2023,50 +,male,12
+2023,50 +,female,2
+2023,50 +,female,1
+2023,50 +,male,2
+2023,50 +,female,1
+2023,50 +,male,8
+2023,50 +,female,7
+2023,30 to 49,female,1
+2023,50 +,female,1
+2023,50 +,male,1
+2023,50 +,male,2
+2023,50 +,female,5
+2023,50 +,male,6
+2023,50 +,female,9
+2023,0 to 29,female,1
+2023,50 +,female,2
+2023,50 +,male,2
+2023,50 +,female,2
+2023,50 +,male,8
+2023,50 +,female,8
+2023,0 to 29,female,1
+2023,50 +,male,1
+2023,50 +,male,1
+2023,50 +,female,2
+2023,50 +,male,1
+2023,50 +,female,4
+2023,50 +,male,6
+2023,50 +,female,6
+2023,0 to 29,female,1
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,5
+2023,50 +,female,2
+2023,50 +,male,12
+2023,50 +,female,6
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,50 +,male,3
+2023,50 +,female,3
+2023,50 +,male,7
+2023,50 +,female,3
+2023,50 +,male,24
+2023,50 +,female,16
+2023,0 to 29,female,1
+2023,50 +,female,1
+2023,50 +,female,2
+2023,50 +,male,11
+2023,50 +,female,5
+2023,50 +,male,20
+2023,50 +,female,18
+2023,50 +,female,1
+2023,50 +,male,6
+2023,50 +,female,2
+2023,50 +,male,9
+2023,50 +,female,3
+2023,50 +,male,27
+2023,50 +,female,11
+2023,30 to 49,female,1
+2023,50 +,female,1
+2023,50 +,male,5
+2023,50 +,male,11
+2023,50 +,female,6
+2023,50 +,male,29
+2023,50 +,female,19
+2023,0 to 29,male,1
+2023,50 +,male,1
+2023,50 +,male,6
+2023,50 +,female,7
+2023,50 +,male,13
+2023,50 +,female,9
+2023,50 +,male,25
+2023,50 +,female,21
+2023,30 to 49,male,1
+2023,50 +,male,1
+2023,50 +,female,3
+2023,50 +,male,1
+2023,50 +,female,4
+2023,50 +,male,15
+2023,50 +,female,14
+2023,50 +,male,39
+2023,50 +,female,30
+2023,30 to 49,male,1
+2023,50 +,male,1
+2023,50 +,male,6
+2023,50 +,female,3
+2023,50 +,male,10
+2023,50 +,female,4
+2023,50 +,male,27
+2023,50 +,female,37
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,50 +,male,2
+2023,50 +,female,1
+2023,50 +,male,3
+2023,50 +,female,2
+2023,50 +,male,11
+2023,50 +,female,9
+2023,50 +,male,31
+2023,50 +,female,42
+2023,0 to 29,male,2
+2023,30 to 49,male,1
+2023,50 +,male,1
+2023,50 +,male,3
+2023,50 +,female,5
+2023,50 +,male,10
+2023,50 +,female,8
+2023,50 +,male,29
+2023,50 +,female,41
+2023,50 +,male,1
+2023,50 +,female,2
+2023,50 +,male,6
+2023,50 +,female,2
+2023,50 +,male,13
+2023,50 +,female,13
+2023,50 +,male,31
+2023,50 +,female,31
+2023,30 to 49,female,1
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,4
+2023,50 +,female,7
+2023,50 +,male,16
+2023,50 +,female,11
+2023,50 +,male,32
+2023,50 +,female,34
+2023,30 to 49,female,3
+2023,30 to 49,male,1
+2023,50 +,male,2
+2023,50 +,female,1
+2023,50 +,male,8
+2023,50 +,female,8
+2023,50 +,male,17
+2023,50 +,female,11
+2023,50 +,male,26
+2023,50 +,female,37
+2023,0 to 29,male,1
+2023,0 to 29,female,1
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,50 +,male,2
+2023,50 +,female,2
+2023,50 +,male,4
+2023,50 +,female,4
+2023,50 +,male,13
+2023,50 +,female,14
+2023,50 +,male,29
+2023,50 +,female,29
+2023,0 to 29,male,1
+2023,30 to 49,male,1
+2023,50 +,male,1
+2023,50 +,female,4
+2023,50 +,male,3
+2023,50 +,female,7
+2023,50 +,male,14
+2023,50 +,female,12
+2023,50 +,male,51
+2023,50 +,female,34
+2023,0 to 29,male,1
+2023,0 to 29,male,1
+2023,30 to 49,female,1
+2023,30 to 49,female,1
+2023,50 +,male,2
+2023,50 +,female,3
+2023,50 +,male,8
+2023,50 +,female,7
+2023,50 +,male,16
+2023,50 +,female,3
+2023,50 +,male,39
+2023,50 +,female,26
+2023,0 to 29,female,1
+2023,30 to 49,female,1
+2023,30 to 49,male,1
+2023,30 to 49,female,2
+2023,50 +,female,1
+2023,50 +,male,3
+2023,50 +,female,4
+2023,50 +,male,11
+2023,50 +,female,4
+2023,50 +,male,27
+2023,50 +,female,16
+2023,30 to 49,male,1
+2023,30 to 49,female,1
+2023,50 +,male,1
+2023,50 +,female,1
+2023,50 +,male,3
+2023,50 +,female,3
+2023,50 +,male,15
+2023,50 +,female,11
+2023,50 +,male,34
+2023,50 +,female,23
+2023,30 to 49,female,1
+2023,50 +,female,1
+2023,50 +,male,9
+2023,50 +,female,4
+2023,50 +,male,15
+2023,50 +,female,5
+2023,50 +,male,35
+2023,50 +,female,31
