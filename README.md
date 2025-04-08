@@ -1,4 +1,4 @@
-# CPSC-368
+# CPSC-368: COVID-19 mortality rates between Canada and the United States from 2020 to 2023
 **Group 4 (2025W2): Sri Chaitanya Bonthula, Arushi Goel, Alice Le**
 
 ## About
