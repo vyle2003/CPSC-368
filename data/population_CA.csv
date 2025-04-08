@@ -1,0 +1,52 @@
+﻿"Population estimates on July 1, by age and gender 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 17-10-0005-01 (formerly CANSIM 051-0001)"
+"Release date: 2024-09-25"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,,,,,,
+"Gender","Total - gender",,,,,,,,,
+"Age group 3 6","2020","Symbol","2021","Symbol","2022","Symbol","2023","Symbol","2024","Symbol"
+,"Persons",,,,,,,,,
+"All ages","38,028,638","","38,239,864","","38,935,934","","40,083,484","","41,288,599",""
+"0 to 4 years","1,937,161","","1,902,883","","1,887,248","","1,875,082","","1,873,533",""
+"5 to 9 years","2,067,384","","2,072,565","","2,090,493","","2,122,814","","2,155,845",""
+"10 to 14 years","2,092,804","","2,114,016","","2,146,468","","2,189,202","","2,235,131",""
+"15 to 19 years","2,082,685","","2,059,975","","2,140,824","","2,231,112","","2,315,434",""
+"20 to 24 years","2,473,470","","2,404,398","","2,462,109","","2,595,967","","2,744,222",""
+"25 to 29 years","2,679,330","","2,674,655","","2,742,141","","2,909,435","","3,042,351",""
+"30 to 34 years","2,660,337","","2,704,004","","2,803,053","","2,989,564","","3,152,014",""
+"35 to 39 years","2,618,643","","2,643,161","","2,698,406","","2,812,771","","2,955,034",""
+"40 to 44 years","2,459,921","","2,505,252","","2,569,219","","2,677,455","","2,800,440",""
+"45 to 49 years","2,392,795","","2,381,758","","2,402,956","","2,459,005","","2,541,391",""
+"50 to 54 years","2,441,944","","2,427,770","","2,424,833","","2,431,356","","2,446,595",""
+"55 to 59 years","2,747,541","","2,690,509","","2,624,347","","2,550,230","","2,493,717",""
+"60 to 64 years","2,565,102","","2,612,928","","2,645,404","","2,681,764","","2,712,771",""
+"65 to 69 years","2,161,130","","2,226,492","","2,304,426","","2,380,006","","2,442,561",""
+"70 to 74 years","1,784,158","","1,845,779","","1,870,449","","1,911,210","","1,972,708",""
+"75 to 79 years","1,213,690","","1,272,339","","1,372,948","","1,457,724","","1,532,797",""
+"80 to 84 years","810,325","","841,433","","875,543","","916,600","","960,179",""
+"85 to 89 years","514,268","","521,396","","527,699","","538,758","","554,453",""
+"90 to 94 years","246,060","","255,977","","261,696","","265,330","","267,192",""
+"95 to 99 years","69,996","","71,970","","74,587","","76,606","","78,559",""
+"100 years and older","9,894","","10,604","","11,085","","11,493","","11,672",""
+,"Years",,,,,,,,,
+"Median age","40.8","","41.0","","40.9","","40.6","","40.3",""
+
+
+
+
+Footnotes:
+1,"Postcensal estimates are based on the 2021 Census counts adjusted for census net undercoverage (CNU) (including adjustment for incompletely enumerated reserves and settlements (IERS)) and the components of demographic growth that occurred since that census. Intercensal estimates are produced using counts from two consecutive censuses adjusted for CNU (including IERS) and postcensal estimates."
+2,"Estimates are final intercensal up to 2020, final postcensal for 2021, updated postcensal for 2022 and 2023, and preliminary postcensal for 2024."
+3,"Data for persons aged 90 to 100 years and older will be available from 2001."
+4,"The population growth, which is used to calculate population estimates, is comprised of the natural growth (Tables 17100006 and 17100016), international migration (Table 17100014) and interprovincial migration (Table 17100015)."
+5,"The demographic estimates now incorporate the concept of gender, which was first introduced in the 2021 Census of Population. Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Demographic estimates are available for the gender category "Men+", which includes men (and/or boys), as well as some non-binary persons, and for the gender category “Women+" category, which includes women (and/or girls), as well as some non-binary persons. For the sake of uniformity, all data products from the Demographic Estimates Program now adopt the term ‘gender’ for all years and periods. Prior to 2021, the demographic estimates are based on the concept of sex at birth. Although gender and sex at birth are two different concepts, this change does not cause a significant break in the trend because the two concepts produce very similar distributions. Population estimates by age and sex at birth are available upon request (please contact statcan.demography-demographie.statcan@statcan.gc.ca)."
+6,"Age at last birthday in years."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0005-01  Population estimates on July 1, by age and gender"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
