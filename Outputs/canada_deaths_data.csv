@@ -1,0 +1,25 @@
+,YEAR,AGE_GROUP,GENDER,DEATHS,COUNTRY
+0,2020,0 to 29,female,11,Canada
+1,2020,0 to 29,male,11,Canada
+2,2020,30 to 49,male,98,Canada
+3,2020,30 to 49,female,43,Canada
+4,2020,50 +,male,4405,Canada
+5,2020,50 +,female,4408,Canada
+6,2021,0 to 29,female,36,Canada
+7,2021,0 to 29,male,41,Canada
+8,2021,30 to 49,male,334,Canada
+9,2021,30 to 49,female,195,Canada
+10,2021,50 +,male,5296,Canada
+11,2021,50 +,female,3963,Canada
+12,2022,0 to 29,female,41,Canada
+13,2022,0 to 29,male,52,Canada
+14,2022,30 to 49,male,188,Canada
+15,2022,30 to 49,female,124,Canada
+16,2022,50 +,female,6417,Canada
+17,2022,50 +,male,7737,Canada
+18,2023,0 to 29,male,16,Canada
+19,2023,0 to 29,female,11,Canada
+20,2023,30 to 49,female,36,Canada
+21,2023,30 to 49,male,31,Canada
+22,2023,50 +,male,2156,Canada
+23,2023,50 +,female,1843,Canada
