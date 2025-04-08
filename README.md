@@ -2,7 +2,7 @@
 **Group 4 (2025W2): Sri Chaitanya Bonthula, Arushi Goel, Alice Le**
 
 ## About
-For this study, we aim to compare COVID-19 mortality rates between Canada and the United States from 2020 to 2023. The study focuses on analyzing how the pandemic impacted different age groups and genders in these two countries, which have distinct healthcare systems—Canada's public healthcare versus the USA's privatized system. 
+For this study, we aim to compare COVID-19 mortality rates between Canada and the United States from 2020 to 2023. The study focuses on analyzing how the pandemic impacted different age groups and genders in these two countries, which have distinct healthcare systems: Canada's public healthcare versus the USA's privatized system. 
 
 **Key Research Questions:**
 
@@ -11,3 +11,10 @@ For this study, we aim to compare COVID-19 mortality rates between Canada and th
 - *Disproportionate Mortality:* Identify if specific age groups experienced higher mortality rates in one country compared to the other.
 
 - *Gender Differences:* Examine how mortality rates differed between males and females across various age groups in both countries.
+
+### Libraries
+- pandas
+- altair
+- oracledb
+- csv
+- matplotlib.pyplot
