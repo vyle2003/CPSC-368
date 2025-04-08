@@ -34,5 +34,5 @@ Feel free to download any of the provided files if you want to skip some steps, 
 3. Kindly cmd/ctl+F to find places with "user" and "password" and replace it with your own oracle account.
 4. Run **Final Report.ipynb** line by line (DO NOT RUN ALL)
 5. You will get some csv files along the way, to use for visualization or insert statements
-6. You can skip some part by just downloading provided csv files needed for the next part!! 
+6. You can skip some parts by just downloading the csv files needed for the next part!! 
 
