@@ -27,5 +27,11 @@ Feel free to download any of the provided files if you want to skip some steps, 
 - SQL Insert Statements: 2 insert statements files, 1 for each country, this can be done using the code provided in **Final Report.ipynb**.
 - data: we included both cleaned and uncleaned data, the **population_country.csv** are files to compute the estimated population for our final report.
 ## How to run the code
-**Warning**: Some of the code may take you 20-25 minutes. Specifically in 
+**Warning**: Some of the code may take you 20-25 minutes #line 563
+
+1. Install the packages above
+2. Download **data_CA-1.csv** and **data_USA-1.csv**
+3. Run **Final Report.ipynb** line by line (DO NOT RUN ALL)
+4. You will get some csv files along the way, to use for visualization or insert statements
+5. You can skip some part by just downloading provided csv files needed for the next part!! 
 
