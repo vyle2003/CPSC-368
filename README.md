@@ -12,7 +12,7 @@ For this study, we aim to compare COVID-19 mortality rates between Canada and th
 
 - *Gender Differences:* Examine how mortality rates differed between males and females across various age groups in both countries.
 
-### Libraries
+### Libraries ###
 - pandas
 - altair
 - oracledb
