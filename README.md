@@ -32,7 +32,8 @@ Feel free to download any of the provided files if you want to skip some steps, 
 1. Install the packages above
 2. Download **data_CA-1.csv** and **data_USA-1.csv**
 3. Kindly cmd/ctl+F to find places with "user" and "password" and replace it with your own oracle account.
-4. Run **Final Report.ipynb** line by line (DO NOT RUN ALL)
-5. You will get some csv files along the way, to use for visualization or insert statements
-6. You can skip some parts by just downloading the csv files needed for the next part!! 
+4. Connect to ssh
+5. Load **Final Report.ipynb** in Jupyter Notebook and run the file line by line (DO NOT RUN ALL)
+6. You will get some csv files along the way, to use for visualization or insert statements
+7. You can skip some parts by just downloading the csv files needed for the next part!! 
 
