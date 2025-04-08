@@ -31,7 +31,8 @@ Feel free to download any of the provided files if you want to skip some steps, 
 
 1. Install the packages above
 2. Download **data_CA-1.csv** and **data_USA-1.csv**
-3. Run **Final Report.ipynb** line by line (DO NOT RUN ALL)
-4. You will get some csv files along the way, to use for visualization or insert statements
-5. You can skip some part by just downloading provided csv files needed for the next part!! 
+3. Kindly cmd/ctl+F to find places with "user" and "password" and replace it with your own oracle account.
+4. Run **Final Report.ipynb** line by line (DO NOT RUN ALL)
+5. You will get some csv files along the way, to use for visualization or insert statements
+6. You can skip some part by just downloading provided csv files needed for the next part!! 
 
