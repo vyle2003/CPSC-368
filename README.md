@@ -22,9 +22,10 @@ Please install these libraries to run the code smoothly
 - matplotlib.pyplot
 
 ## Folders
-Feel free to download any of the provided file if you want to skip some steps, else, you only need **data_country-1.csv** files to run the first half of the code, the rest can be obtained by completing the steps provided in the **Final Report.ipynb**.
+Feel free to download any of the provided files if you want to skip some steps, else, you only need **data_country-1.csv** files to run the first half of the code, the rest can be obtained by completing the steps provided in the **Final Report.ipynb**.
 - Outputs: These dataframes are needed for visualizations and answering our research questions. **country_w_population.csv** files are the summary for total mortality and mortality rate for each country. The processes of how to turn sql queries into csv file are included in **Final Report.ipynb**. **country_deaths_data.csv** files are used to answer our 3rd question, here the mortality rate are not provided, we worked with the raw death counts.
 - SQL Insert Statements: 2 insert statements files, 1 for each country, this can be done using the code provided in **Final Report.ipynb**.
 - data: we included both cleaned and uncleaned data, the **population_country.csv** are files to compute the estimated population for our final report.
 ## How to run the code
+**Warning**: Some of the code may take you 20-25 minutes. Specifically in 
 
